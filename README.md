@@ -8,3 +8,5 @@
 - cd Check-Proxy
 - pip install -r requirements.txt
 - python3 check.py
+# Working 
+- only works on Termux
