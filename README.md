@@ -1,1 +1,5 @@
-# Check-Proxy
+# Check-Proxy 
+- SOCKS5
+- SOCKS4
+- HTTP
+#Setup 
